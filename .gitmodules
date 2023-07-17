@@ -1,7 +1,3 @@
-[submodule "mpv"]
-	path = mpv
-	url = https://github.com/mpv-player/mpv.git
-	branch = master
 [submodule "FFmpeg"]
 	path = FFmpeg
 	url = https://github.com/FFmpeg/FFmpeg.git
